@@ -1,0 +1,10 @@
+Ulcer Index (UI): The Ulcer Index is a measure of downside risk that takes into account both the magnitude and duration of price declines. It can be useful for traders who are focused on minimizing drawdowns.
+
+Choppiness Index (CI): The Choppiness Index is a measure of market trendiness that ranges from 0 to 100. A low value indicates a trendless market, while a high value indicates a strongly trending market. It can be useful for traders who are looking for markets that are either trending strongly or moving in a range.
+
+Detrended Price Oscillator (DPO): The Detrended Price Oscillator is a cycle-based indicator that attempts to remove the trend from price data. It can be useful for traders who are interested in identifying short-term price cycles.
+
+Aroon Oscillator (AROONOSC): The Aroon Oscillator is a momentum-based indicator that is derived from the Aroon Up and Aroon Down indicators. It can be useful for traders who are interested in identifying trend changes.
+
+Ultimate Oscillator (ULTOSC): The Ultimate Oscillator is a momentum-based indicator that combines three different timeframes (usually 7, 14, and 28 periods) to generate a single signal. It can be useful for traders who are looking for confirmation of momentum in multiple timeframes.
+
