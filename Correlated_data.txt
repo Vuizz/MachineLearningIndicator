@@ -1,0 +1,28 @@
+Correlated Data Points with BTC:
+
+Stock Market Indices
+Gold and other precious metals
+Altcoins and the total cryptocurrency market cap
+Bitcoin's hash rate
+Google Trends and social media sentiment
+Macroeconomic indicators
+Regulatory news and events
+Network activity
+Market liquidity and trading volume
+Whale activity
+Analysis Techniques for Bitcoin's Price Movements:
+
+Fundamental Analysis:
+a. Network metrics
+b. Market adoption
+c. Industry developments
+d. Macroeconomic factors
+
+Technical Analysis:
+a. Chart patterns
+b. Moving averages
+c. Technical indicators
+d. Support and resistance levels
+e. Fibonacci retracement levels
+f. Trendlines and channels
+g. Candlestick patterns
